@@ -1,0 +1,49 @@
+
+#faq {
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+h4 {
+    text-align: left;
+}
+
+.panel-title a{
+    font-size: 17px;
+    line-height: 30px;
+    color: #0084ff;
+    text-decoration: none;
+}
+
+.panel-body {
+    color: #4e526b;
+    font-size: 16px;
+    text-align: left;
+}
+
+.faqHeader {
+    font-size: 23px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.panel-default > .panel-heading {
+    background-color: #fcfcfc;
+}
+
+a.accordion-toggle {
+  display: block;
+  padding: 10px  15px;
+}
+
+div.panel-heading {
+  padding: 0;
+}
+
+@media screen and (max-width: 350px) {
+
+}
